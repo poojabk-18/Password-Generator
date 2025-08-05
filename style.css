@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:  "Poppins", sans-serif;
+}
+body{
+    background-color: #00093a; 
+}
+.container{
+    /* border: 2px solid white; */
+    width: 50vw;
+    height: 40vh;
+    margin: 100px;
+    padding: 100px;
+}
+.head p:first-child{
+    color: white;
+    font-size: 50px;
+}
+.head p{
+    color: rgb(62, 173, 62);
+    font-size: 60px;
+}
+.line{
+    width: 37vw;
+    height: 5px;
+    background-color: rgb(81, 150, 81);
+}
+.passwordbox input{
+    min-width: 30vw;
+    width: auto;
+    height: 40px;
+    border-radius: 0.4em;
+    font-size: 20px;
+    border: none;
+    outline: 0;
+}
+.passwordbox{
+    background-color: white;
+    width: 35vw;
+    height: 40px;
+    margin-top: 30px;
+    padding: 10px;
+    border-radius: 0.4em;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#generate{
+    margin: 10px;
+    padding: 10px;
+    min-width: 20vw;
+    height: 50px;
+    border-radius: 0.2em;
+    font-size: 20px;
+    color: white;
+    background-color:rgb(81, 150, 81) ;
+    border: none;
+    cursor: pointer;
+}

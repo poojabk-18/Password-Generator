@@ -1,4 +1,4 @@
-#Password Generator
+#Password Generator <br>
 A simple and secure random password generator webpage built using HTML, CSS, and JavaScript.
 <br>
 Features : <br>
